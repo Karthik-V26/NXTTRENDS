@@ -1,5 +1,4 @@
-# Authentication & Authorization | Part 3
-
+# NxtTrends
 - Router Switch
   - User Defined Components
   - Redirect
